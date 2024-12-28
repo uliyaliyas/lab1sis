@@ -1,0 +1,12 @@
+28.12.2024 10:08:38: Initial values - Money: 1000, Name: MyBank, Percent: 5
+28.12.2024 10:08:38: Money changed to: 1500
+28.12.2024 10:08:38: Name changed to: NewBank
+28.12.2024 10:08:38: Percent changed to: 6
+28.12.2024 10:10:31: Initial values - Money: 1000, Name: MyBank, Percent: 5
+28.12.2024 10:10:31: Money changed to: 1500
+28.12.2024 10:10:31: Name changed to: NewBank
+28.12.2024 10:10:31: Percent changed to: 6
+28.12.2024 10:10:54: Initial values - Money: 1000, Name: MyBank, Percent: 5
+28.12.2024 10:10:54: Money changed to: 1500
+28.12.2024 10:10:54: Name changed to: NewBank
+28.12.2024 10:10:54: Percent changed to: 6

@@ -1,0 +1,14 @@
+C:\Users\5090969\source\repos\lab1sis\lab1sis\bin\Debug\net8.0\lab1sis.exe
+C:\Users\5090969\source\repos\lab1sis\lab1sis\bin\Debug\net8.0\lab1sis.deps.json
+C:\Users\5090969\source\repos\lab1sis\lab1sis\bin\Debug\net8.0\lab1sis.runtimeconfig.json
+C:\Users\5090969\source\repos\lab1sis\lab1sis\bin\Debug\net8.0\lab1sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab1sis\bin\Debug\net8.0\lab1sis.pdb
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.AssemblyInfoInputs.cache
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.AssemblyInfo.cs
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.csproj.CoreCompileInputs.cache
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\refint\lab1sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.pdb
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\lab1sis.genruntimeconfig.cache
+C:\Users\5090969\source\repos\lab1sis\lab1sis\obj\Debug\net8.0\ref\lab1sis.dll
