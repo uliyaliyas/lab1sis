@@ -1,0 +1,15 @@
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\bin\Debug\net8.0\lab2Sis.exe
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\bin\Debug\net8.0\lab2Sis.deps.json
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\bin\Debug\net8.0\lab2Sis.runtimeconfig.json
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\bin\Debug\net8.0\lab2Sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\bin\Debug\net8.0\lab2Sis.pdb
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.AssemblyInfoInputs.cache
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.AssemblyInfo.cs
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.csproj.CoreCompileInputs.cache
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.sourcelink.json
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\refint\lab2Sis.dll
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.pdb
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\lab2Sis.genruntimeconfig.cache
+C:\Users\5090969\source\repos\lab1sis\lab2Sis\obj\Debug\net8.0\ref\lab2Sis.dll

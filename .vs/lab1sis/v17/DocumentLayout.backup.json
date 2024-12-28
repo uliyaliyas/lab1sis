@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\5090969\\source\\repos\\lab1sis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19DD36D0-0BFC-4A36-A0D8-A9F70D1396DB}|lab2Sis\\lab2Sis.csproj|c:\\users\\5090969\\source\\repos\\lab1sis\\lab2sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DD36D0-0BFC-4A36-A0D8-A9F70D1396DB}|lab2Sis\\lab2Sis.csproj|solutionrelative:lab2sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B010E97-8E5D-4C5F-B401-63EA788C218A}|lab1sis\\lab1sis.csproj|c:\\users\\5090969\\source\\repos\\lab1sis\\lab1sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B010E97-8E5D-4C5F-B401-63EA788C218A}|lab1sis\\lab1sis.csproj|solutionrelative:lab1sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab2Sis\\Program.cs",
+              "RelativeDocumentMoniker": "lab2Sis\\Program.cs",
+              "ToolTip": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab2Sis\\Program.cs",
+              "RelativeToolTip": "lab2Sis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:16:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab1sis\\Bank.cs",
               "RelativeDocumentMoniker": "lab1sis\\Bank.cs",
@@ -42,17 +59,16 @@
               "RelativeToolTip": "lab1sis\\Bank.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:06:55.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T08:06:55.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab1sis\\Program.cs",
               "RelativeDocumentMoniker": "lab1sis\\Program.cs",
-              "ToolTip": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab1sis\\Program.cs*",
-              "RelativeToolTip": "lab1sis\\Program.cs*",
+              "ToolTip": "C:\\Users\\5090969\\source\\repos\\lab1sis\\lab1sis\\Program.cs",
+              "RelativeToolTip": "lab1sis\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T08:06:28.064Z",
